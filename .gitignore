@@ -1,0 +1,8 @@
+# 项目排除路径
+/client/target/
+/codec/target/
+/common/target/
+/example/target/
+/proto/target/
+/server/target/
+/transport/target/
